@@ -46,7 +46,7 @@ pip install cowsay
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/dut-e-calibration-tool.git
+git clone https://github.com/JorgeGBeltre/Fuel-Sensor-Calibration-Tool.git
 cd dut-e-calibration-tool
 pip install cowsay
 python main.py
